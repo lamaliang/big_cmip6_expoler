@@ -1,0 +1,742 @@
+{
+"models": [
+{
+"model": "ACCESS-CM2",
+"file": "model_ACCESS-CM2.json",
+"n_experiments": 9,
+"n_variables": 52,
+"n_files": 1181
+},
+{
+"model": "ACCESS-ESM1-5",
+"file": "model_ACCESS-ESM1-5.json",
+"n_experiments": 18,
+"n_variables": 62,
+"n_files": 7874
+},
+{
+"model": "AWI-CM-1-1-MR",
+"file": "model_AWI-CM-1-1-MR.json",
+"n_experiments": 8,
+"n_variables": 49,
+"n_files": 46779
+},
+{
+"model": "AWI-ESM-1-1-LR",
+"file": "model_AWI-ESM-1-1-LR.json",
+"n_experiments": 3,
+"n_variables": 59,
+"n_files": 16842
+},
+{
+"model": "AWI-ESM-1-REcoM",
+"file": "model_AWI-ESM-1-REcoM.json",
+"n_experiments": 2,
+"n_variables": 3,
+"n_files": 57
+},
+{
+"model": "BCC-CSM2-HR",
+"file": "model_BCC-CSM2-HR.json",
+"n_experiments": 2,
+"n_variables": 54,
+"n_files": 657
+},
+{
+"model": "BCC-CSM2-MR",
+"file": "model_BCC-CSM2-MR.json",
+"n_experiments": 16,
+"n_variables": 69,
+"n_files": 4841
+},
+{
+"model": "BCC-ESM1",
+"file": "model_BCC-ESM1.json",
+"n_experiments": 7,
+"n_variables": 76,
+"n_files": 502
+},
+{
+"model": "CAMS-CSM1-0",
+"file": "model_CAMS-CSM1-0.json",
+"n_experiments": 11,
+"n_variables": 43,
+"n_files": 1556
+},
+{
+"model": "CAS-ESM2-0",
+"file": "model_CAS-ESM2-0.json",
+"n_experiments": 9,
+"n_variables": 59,
+"n_files": 508
+},
+{
+"model": "CESM1-1-CAM5-CMIP5",
+"file": "model_CESM1-1-CAM5-CMIP5.json",
+"n_experiments": 1,
+"n_variables": 4,
+"n_files": 9279
+},
+{
+"model": "CESM1-CAM5-SE-HR",
+"file": "model_CESM1-CAM5-SE-HR.json",
+"n_experiments": 3,
+"n_variables": 35,
+"n_files": 72
+},
+{
+"model": "CESM1-CAM5-SE-LR",
+"file": "model_CESM1-CAM5-SE-LR.json",
+"n_experiments": 3,
+"n_variables": 36,
+"n_files": 74
+},
+{
+"model": "CESM2",
+"file": "model_CESM2.json",
+"n_experiments": 17,
+"n_variables": 68,
+"n_files": 3893
+},
+{
+"model": "CESM2-FV2",
+"file": "model_CESM2-FV2.json",
+"n_experiments": 6,
+"n_variables": 63,
+"n_files": 1098
+},
+{
+"model": "CESM2-WACCM",
+"file": "model_CESM2-WACCM.json",
+"n_experiments": 9,
+"n_variables": 65,
+"n_files": 3115
+},
+{
+"model": "CESM2-WACCM-FV2",
+"file": "model_CESM2-WACCM-FV2.json",
+"n_experiments": 5,
+"n_variables": 62,
+"n_files": 1083
+},
+{
+"model": "CIESM",
+"file": "model_CIESM.json",
+"n_experiments": 8,
+"n_variables": 48,
+"n_files": 269
+},
+{
+"model": "CMCC-CM2-HR4",
+"file": "model_CMCC-CM2-HR4.json",
+"n_experiments": 8,
+"n_variables": 55,
+"n_files": 64171
+},
+{
+"model": "CMCC-CM2-SR5",
+"file": "model_CMCC-CM2-SR5.json",
+"n_experiments": 12,
+"n_variables": 60,
+"n_files": 12642
+},
+{
+"model": "CMCC-CM2-VHR4",
+"file": "model_CMCC-CM2-VHR4.json",
+"n_experiments": 4,
+"n_variables": 40,
+"n_files": 77008
+},
+{
+"model": "CMCC-ESM2",
+"file": "model_CMCC-ESM2.json",
+"n_experiments": 8,
+"n_variables": 62,
+"n_files": 2181
+},
+{
+"model": "CNRM-CM6-1",
+"file": "model_CNRM-CM6-1.json",
+"n_experiments": 17,
+"n_variables": 59,
+"n_files": 1356
+},
+{
+"model": "CNRM-CM6-1-HR",
+"file": "model_CNRM-CM6-1-HR.json",
+"n_experiments": 13,
+"n_variables": 56,
+"n_files": 1482
+},
+{
+"model": "CNRM-ESM2-1",
+"file": "model_CNRM-ESM2-1.json",
+"n_experiments": 12,
+"n_variables": 81,
+"n_files": 591
+},
+{
+"model": "CanESM5",
+"file": "model_CanESM5.json",
+"n_experiments": 22,
+"n_variables": 77,
+"n_files": 11580
+},
+{
+"model": "CanESM5-1",
+"file": "model_CanESM5-1.json",
+"n_experiments": 7,
+"n_variables": 76,
+"n_files": 1004
+},
+{
+"model": "CanESM5-CanOE",
+"file": "model_CanESM5-CanOE.json",
+"n_experiments": 7,
+"n_variables": 50,
+"n_files": 90
+},
+{
+"model": "E3SM-1-0",
+"file": "model_E3SM-1-0.json",
+"n_experiments": 9,
+"n_variables": 56,
+"n_files": 2057
+},
+{
+"model": "E3SM-1-1",
+"file": "model_E3SM-1-1.json",
+"n_experiments": 4,
+"n_variables": 53,
+"n_files": 1309
+},
+{
+"model": "E3SM-1-1-ECA",
+"file": "model_E3SM-1-1-ECA.json",
+"n_experiments": 3,
+"n_variables": 55,
+"n_files": 1160
+},
+{
+"model": "E3SM-2-0",
+"file": "model_E3SM-2-0.json",
+"n_experiments": 7,
+"n_variables": 49,
+"n_files": 923
+},
+{
+"model": "E3SM-2-0-NARRM",
+"file": "model_E3SM-2-0-NARRM.json",
+"n_experiments": 2,
+"n_variables": 4,
+"n_files": 75
+},
+{
+"model": "EC-Earth3",
+"file": "model_EC-Earth3.json",
+"n_experiments": 10,
+"n_variables": 54,
+"n_files": 134361
+},
+{
+"model": "EC-Earth3-AerChem",
+"file": "model_EC-Earth3-AerChem.json",
+"n_experiments": 6,
+"n_variables": 71,
+"n_files": 25806
+},
+{
+"model": "EC-Earth3-CC",
+"file": "model_EC-Earth3-CC.json",
+"n_experiments": 9,
+"n_variables": 58,
+"n_files": 37831
+},
+{
+"model": "EC-Earth3-ESM-1",
+"file": "model_EC-Earth3-ESM-1.json",
+"n_experiments": 4,
+"n_variables": 13,
+"n_files": 1677
+},
+{
+"model": "EC-Earth3-HR",
+"file": "model_EC-Earth3-HR.json",
+"n_experiments": 1,
+"n_variables": 6,
+"n_files": 5376
+},
+{
+"model": "EC-Earth3-LR",
+"file": "model_EC-Earth3-LR.json",
+"n_experiments": 1,
+"n_variables": 5,
+"n_files": 1030
+},
+{
+"model": "EC-Earth3-Veg",
+"file": "model_EC-Earth3-Veg.json",
+"n_experiments": 10,
+"n_variables": 56,
+"n_files": 78871
+},
+{
+"model": "EC-Earth3-Veg-LR",
+"file": "model_EC-Earth3-Veg-LR.json",
+"n_experiments": 10,
+"n_variables": 56,
+"n_files": 57443
+},
+{
+"model": "EC-Earth3P",
+"file": "model_EC-Earth3P.json",
+"n_experiments": 4,
+"n_variables": 44,
+"n_files": 23419
+},
+{
+"model": "EC-Earth3P-HR",
+"file": "model_EC-Earth3P-HR.json",
+"n_experiments": 4,
+"n_variables": 43,
+"n_files": 23174
+},
+{
+"model": "ECMWF-IFS-HR",
+"file": "model_ECMWF-IFS-HR.json",
+"n_experiments": 3,
+"n_variables": 40,
+"n_files": 6515
+},
+{
+"model": "ECMWF-IFS-LR",
+"file": "model_ECMWF-IFS-LR.json",
+"n_experiments": 3,
+"n_variables": 40,
+"n_files": 6515
+},
+{
+"model": "ECMWF-IFS-MR",
+"file": "model_ECMWF-IFS-MR.json",
+"n_experiments": 1,
+"n_variables": 40,
+"n_files": 2600
+},
+{
+"model": "FGOALS-f3-H",
+"file": "model_FGOALS-f3-H.json",
+"n_experiments": 4,
+"n_variables": 43,
+"n_files": 2469
+},
+{
+"model": "FGOALS-f3-L",
+"file": "model_FGOALS-f3-L.json",
+"n_experiments": 12,
+"n_variables": 49,
+"n_files": 3122
+},
+{
+"model": "FGOALS-g3",
+"file": "model_FGOALS-g3.json",
+"n_experiments": 13,
+"n_variables": 56,
+"n_files": 18735
+},
+{
+"model": "FIO-ESM-2-0",
+"file": "model_FIO-ESM-2-0.json",
+"n_experiments": 8,
+"n_variables": 48,
+"n_files": 610
+},
+{
+"model": "GFDL-AM4",
+"file": "model_GFDL-AM4.json",
+"n_experiments": 1,
+"n_variables": 17,
+"n_files": 17
+},
+{
+"model": "GFDL-CM4",
+"file": "model_GFDL-CM4.json",
+"n_experiments": 9,
+"n_variables": 69,
+"n_files": 1386
+},
+{
+"model": "GFDL-CM4C192",
+"file": "model_GFDL-CM4C192.json",
+"n_experiments": 3,
+"n_variables": 48,
+"n_files": 171
+},
+{
+"model": "GFDL-ESM4",
+"file": "model_GFDL-ESM4.json",
+"n_experiments": 19,
+"n_variables": 69,
+"n_files": 1295
+},
+{
+"model": "GISS-E2-1-G",
+"file": "model_GISS-E2-1-G.json",
+"n_experiments": 14,
+"n_variables": 59,
+"n_files": 5738
+},
+{
+"model": "GISS-E2-1-G-CC",
+"file": "model_GISS-E2-1-G-CC.json",
+"n_experiments": 5,
+"n_variables": 57,
+"n_files": 626
+},
+{
+"model": "GISS-E2-1-H",
+"file": "model_GISS-E2-1-H.json",
+"n_experiments": 9,
+"n_variables": 61,
+"n_files": 2568
+},
+{
+"model": "GISS-E2-2-G",
+"file": "model_GISS-E2-2-G.json",
+"n_experiments": 9,
+"n_variables": 59,
+"n_files": 893
+},
+{
+"model": "GISS-E2-2-H",
+"file": "model_GISS-E2-2-H.json",
+"n_experiments": 3,
+"n_variables": 59,
+"n_files": 830
+},
+{
+"model": "HadGEM3-GC31-HH",
+"file": "model_HadGEM3-GC31-HH.json",
+"n_experiments": 3,
+"n_variables": 50,
+"n_files": 7070
+},
+{
+"model": "HadGEM3-GC31-HM",
+"file": "model_HadGEM3-GC31-HM.json",
+"n_experiments": 5,
+"n_variables": 50,
+"n_files": 20078
+},
+{
+"model": "HadGEM3-GC31-LL",
+"file": "model_HadGEM3-GC31-LL.json",
+"n_experiments": 14,
+"n_variables": 54,
+"n_files": 12469
+},
+{
+"model": "HadGEM3-GC31-LM",
+"file": "model_HadGEM3-GC31-LM.json",
+"n_experiments": 2,
+"n_variables": 50,
+"n_files": 12770
+},
+{
+"model": "HadGEM3-GC31-MM",
+"file": "model_HadGEM3-GC31-MM.json",
+"n_experiments": 12,
+"n_variables": 54,
+"n_files": 60477
+},
+{
+"model": "HiRAM-SIT-HR",
+"file": "model_HiRAM-SIT-HR.json",
+"n_experiments": 4,
+"n_variables": 39,
+"n_files": 8091
+},
+{
+"model": "HiRAM-SIT-LR",
+"file": "model_HiRAM-SIT-LR.json",
+"n_experiments": 4,
+"n_variables": 43,
+"n_files": 9217
+},
+{
+"model": "ICON-ESM-LR",
+"file": "model_ICON-ESM-LR.json",
+"n_experiments": 5,
+"n_variables": 47,
+"n_files": 2107
+},
+{
+"model": "IITM-ESM",
+"file": "model_IITM-ESM.json",
+"n_experiments": 9,
+"n_variables": 48,
+"n_files": 4905
+},
+{
+"model": "INM-CM4-8",
+"file": "model_INM-CM4-8.json",
+"n_experiments": 9,
+"n_variables": 57,
+"n_files": 1636
+},
+{
+"model": "INM-CM5-0",
+"file": "model_INM-CM5-0.json",
+"n_experiments": 9,
+"n_variables": 57,
+"n_files": 2222
+},
+{
+"model": "INM-CM5-H",
+"file": "model_INM-CM5-H.json",
+"n_experiments": 2,
+"n_variables": 48,
+"n_files": 1529
+},
+{
+"model": "IPSL-CM5A2-INCA",
+"file": "model_IPSL-CM5A2-INCA.json",
+"n_experiments": 6,
+"n_variables": 58,
+"n_files": 332
+},
+{
+"model": "IPSL-CM6A-ATM-HR",
+"file": "model_IPSL-CM6A-ATM-HR.json",
+"n_experiments": 1,
+"n_variables": 57,
+"n_files": 101
+},
+{
+"model": "IPSL-CM6A-ATM-ICO-HR",
+"file": "model_IPSL-CM6A-ATM-ICO-HR.json",
+"n_experiments": 1,
+"n_variables": 57,
+"n_files": 492
+},
+{
+"model": "IPSL-CM6A-ATM-ICO-LR",
+"file": "model_IPSL-CM6A-ATM-ICO-LR.json",
+"n_experiments": 1,
+"n_variables": 57,
+"n_files": 404
+},
+{
+"model": "IPSL-CM6A-ATM-ICO-MR",
+"file": "model_IPSL-CM6A-ATM-ICO-MR.json",
+"n_experiments": 1,
+"n_variables": 57,
+"n_files": 444
+},
+{
+"model": "IPSL-CM6A-ATM-ICO-VHR",
+"file": "model_IPSL-CM6A-ATM-ICO-VHR.json",
+"n_experiments": 1,
+"n_variables": 57,
+"n_files": 854
+},
+{
+"model": "IPSL-CM6A-LR",
+"file": "model_IPSL-CM6A-LR.json",
+"n_experiments": 16,
+"n_variables": 75,
+"n_files": 5278
+},
+{
+"model": "IPSL-CM6A-LR-INCA",
+"file": "model_IPSL-CM6A-LR-INCA.json",
+"n_experiments": 2,
+"n_variables": 73,
+"n_files": 112
+},
+{
+"model": "IPSL-CM6A-MR1",
+"file": "model_IPSL-CM6A-MR1.json",
+"n_experiments": 4,
+"n_variables": 18,
+"n_files": 226
+},
+{
+"model": "KACE-1-0-G",
+"file": "model_KACE-1-0-G.json",
+"n_experiments": 9,
+"n_variables": 55,
+"n_files": 715
+},
+{
+"model": "KIOST-ESM",
+"file": "model_KIOST-ESM.json",
+"n_experiments": 8,
+"n_variables": 50,
+"n_files": 232
+},
+{
+"model": "MCM-UA-1-0",
+"file": "model_MCM-UA-1-0.json",
+"n_experiments": 8,
+"n_variables": 31,
+"n_files": 163
+},
+{
+"model": "MIROC-ES2H",
+"file": "model_MIROC-ES2H.json",
+"n_experiments": 1,
+"n_variables": 2,
+"n_files": 2
+},
+{
+"model": "MIROC-ES2L",
+"file": "model_MIROC-ES2L.json",
+"n_experiments": 15,
+"n_variables": 51,
+"n_files": 10683
+},
+{
+"model": "MIROC6",
+"file": "model_MIROC6.json",
+"n_experiments": 16,
+"n_variables": 75,
+"n_files": 15844
+},
+{
+"model": "MPI-ESM-1-2-HAM",
+"file": "model_MPI-ESM-1-2-HAM.json",
+"n_experiments": 7,
+"n_variables": 86,
+"n_files": 1775
+},
+{
+"model": "MPI-ESM1-2-HR",
+"file": "model_MPI-ESM1-2-HR.json",
+"n_experiments": 14,
+"n_variables": 61,
+"n_files": 28228
+},
+{
+"model": "MPI-ESM1-2-LR",
+"file": "model_MPI-ESM1-2-LR.json",
+"n_experiments": 17,
+"n_variables": 63,
+"n_files": 9657
+},
+{
+"model": "MPI-ESM1-2-XR",
+"file": "model_MPI-ESM1-2-XR.json",
+"n_experiments": 4,
+"n_variables": 46,
+"n_files": 11514
+},
+{
+"model": "MRI-AGCM3-2-H",
+"file": "model_MRI-AGCM3-2-H.json",
+"n_experiments": 2,
+"n_variables": 42,
+"n_files": 1210
+},
+{
+"model": "MRI-AGCM3-2-S",
+"file": "model_MRI-AGCM3-2-S.json",
+"n_experiments": 2,
+"n_variables": 42,
+"n_files": 8534
+},
+{
+"model": "MRI-ESM2-0",
+"file": "model_MRI-ESM2-0.json",
+"n_experiments": 16,
+"n_variables": 64,
+"n_files": 7575
+},
+{
+"model": "NESM3",
+"file": "model_NESM3.json",
+"n_experiments": 8,
+"n_variables": 49,
+"n_files": 636
+},
+{
+"model": "NICAM16-7S",
+"file": "model_NICAM16-7S.json",
+"n_experiments": 2,
+"n_variables": 8,
+"n_files": 1111
+},
+{
+"model": "NICAM16-8S",
+"file": "model_NICAM16-8S.json",
+"n_experiments": 2,
+"n_variables": 8,
+"n_files": 1111
+},
+{
+"model": "NICAM16-9S",
+"file": "model_NICAM16-9S.json",
+"n_experiments": 2,
+"n_variables": 8,
+"n_files": 242
+},
+{
+"model": "NorCPM1",
+"file": "model_NorCPM1.json",
+"n_experiments": 6,
+"n_variables": 50,
+"n_files": 7522
+},
+{
+"model": "NorESM1-F",
+"file": "model_NorESM1-F.json",
+"n_experiments": 1,
+"n_variables": 2,
+"n_files": 40
+},
+{
+"model": "NorESM2-LM",
+"file": "model_NorESM2-LM.json",
+"n_experiments": 18,
+"n_variables": 64,
+"n_files": 8955
+},
+{
+"model": "NorESM2-MM",
+"file": "model_NorESM2-MM.json",
+"n_experiments": 9,
+"n_variables": 65,
+"n_files": 5992
+},
+{
+"model": "SAM0-UNICON",
+"file": "model_SAM0-UNICON.json",
+"n_experiments": 5,
+"n_variables": 51,
+"n_files": 2025
+},
+{
+"model": "TaiESM1",
+"file": "model_TaiESM1.json",
+"n_experiments": 28,
+"n_variables": 185,
+"n_files": 40600
+},
+{
+"model": "UKESM1-0-LL",
+"file": "model_UKESM1-0-LL.json",
+"n_experiments": 15,
+"n_variables": 63,
+"n_files": 1837
+},
+{
+"model": "UKESM1-1-LL",
+"file": "model_UKESM1-1-LL.json",
+"n_experiments": 7,
+"n_variables": 37,
+"n_files": 225
+}
+],
+"n_total_files_seen": 1040787,
+"n_parsed": 1037629,
+"n_skipped": 3158
+}
